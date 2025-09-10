@@ -68,7 +68,7 @@ Create a `.env` file in the root directory:
 OPENAI_API_KEY=""
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=""
-LANGCHAIN_PROJECT="Project_Name"
+LANGCHAIN_PROJECT="langchain-course"
 ```
 
 ### Project Structure
@@ -168,4 +168,6 @@ streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/IzzatShahGit/Docu-Chat-RAG/blob/main/LICENSE)
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/IzzatShahGit/Docu-Chat-RAG/blob/main/LICENSE) file for details.
