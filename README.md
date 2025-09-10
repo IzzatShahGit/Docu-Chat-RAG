@@ -68,7 +68,7 @@ Create a `.env` file in the root directory:
 OPENAI_API_KEY=""
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=""
-LANGCHAIN_PROJECT="langchain-course"
+LANGCHAIN_PROJECT="Project-Name"
 ```
 
 ### Project Structure
